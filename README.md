@@ -40,6 +40,6 @@ print("Best Extracted URL:",best_url)
 ## About offline streams
 You may find some streams that are offline, keep in mind that it doesn't means a stream is dead, the stream may be temporarily offline.
 ## Sources
-The collection is extracted from the following sources:
+The collection is extracted from the following sources:  
 wwitv.com  
 freeintertv.com  
