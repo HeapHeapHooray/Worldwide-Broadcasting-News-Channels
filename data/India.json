@@ -1,0 +1,147 @@
+{
+    "10 TV": {
+        "channel_name": "10 TV",
+        "source_url": "https://wwitv.com/tv_channels/b7034-10-TV-Telugu.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCfymZbh17_3T_UhgjkQ9fRQ"
+    },
+    "24 News": {
+        "channel_name": "24 News",
+        "source_url": "https://wwitv.com/tv_channels/b7178-24-News-Malay.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCup3etEdjyF1L3sRbU-rKLw"
+    },
+    "ABN Telugu": {
+        "channel_name": "ABN Telugu",
+        "source_url": "https://wwitv.com/tv_channels/b5794.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC_2irx_BQR7RsBKmUV9fePQ"
+    },
+    "ABP Ananda": {
+        "channel_name": "ABP Ananda",
+        "source_url": "https://wwitv.com/tv_channels/b4088.htm",
+        "stream_url": "https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8"
+    },
+    "ABP Majha": {
+        "channel_name": "ABP Majha",
+        "source_url": "https://wwitv.com/tv_channels/b5961.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCH7nv1A9xIrAifZJNvt7cgA"
+    },
+    "ABP News": {
+        "channel_name": "ABP News",
+        "source_url": "https://wwitv.com/tv_channels/b6549-ABP-News.htm",
+        "stream_url": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8"
+    },
+    "AP News": {
+        "channel_name": "AP News",
+        "source_url": "https://wwitv.com/tv_channels/b7068-AP-News-Telugu.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCpbW96xFi7vbTM98vGMQh-g"
+    },
+    "Aaj Tak": {
+        "channel_name": "Aaj Tak",
+        "source_url": "https://wwitv.com/tv_channels/b4699.htm",
+        "stream_url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/playlist.m3u8"
+    },
+    "DD News": {
+        "channel_name": "DD News",
+        "source_url": "https://wwitv.com/tv_channels/33.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCKwucPzHZ7zCUIf7If-Wo1g"
+    },
+    "HMTV News": {
+        "channel_name": "HMTV News",
+        "source_url": "https://wwitv.com/tv_channels/b6893-HMTV-News-Telugu.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCNZOrs1QBt8cJnv9ud96qRA"
+    },
+    "India TV News": {
+        "channel_name": "India TV News",
+        "source_url": "https://wwitv.com/tv_channels/b6080.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCttspZesZIDEwwpVIgoZtWQ"
+    },
+    "India Today": {
+        "channel_name": "India Today",
+        "source_url": "https://wwitv.com/tv_channels/b5991.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCYPvAwZP8pZhSMW8qs7cVCw"
+    },
+    "Janam TV News": {
+        "channel_name": "Janam TV News",
+        "source_url": "https://wwitv.com/tv_channels/b7286-Janam-TV-News.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCNVkxRPqsBNejO6B9thG9Xw"
+    },
+    "K News": {
+        "channel_name": "K News",
+        "source_url": "https://wwitv.com/tv_channels/b7065-K-News.htm",
+        "stream_url": "https://knews.livebox.co.in/youtubehls/live.m3u8"
+    },
+    "Kolkata TV": {
+        "channel_name": "Kolkata TV",
+        "source_url": "https://wwitv.com/tv_channels/b7329-KolkataTV-Bengali.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCNvCQpcafnbW4KQ8X7oQ9kg"
+    },
+    "Mahaa News": {
+        "channel_name": "Mahaa News",
+        "source_url": "https://wwitv.com/tv_channels/b6760-Mahaa-News.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCB30zQrOJNBeKerHAqvL03g"
+    },
+    "Mathrubhumi News": {
+        "channel_name": "Mathrubhumi News",
+        "source_url": "https://wwitv.com/tv_channels/b6850-Mathrubhumi-News.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCwXrBBZnIh2ER4lal6WbAHw"
+    },
+    "News 18": {
+        "channel_name": "News 18",
+        "source_url": "https://wwitv.com/tv_channels/b5974.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCPP3etACgdUWvizcES1dJ8Q"
+    },
+    "News 24": {
+        "channel_name": "News 24",
+        "source_url": "https://wwitv.com/tv_channels/b5879-News-24-India.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCuzS3rPQAYqHcLWqOFuY0pw"
+    },
+    "News J": {
+        "channel_name": "News J",
+        "source_url": "https://wwitv.com/tv_channels/b7311.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCsfh2Zb7-m4qzT8jLhK_Fzw"
+    },
+    "OTV News": {
+        "channel_name": "OTV News",
+        "source_url": "https://wwitv.com/tv_channels/b7183-OTV-News.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCCgLMMp4lv7fSD2sBz1Ai6Q"
+    },
+    "Puthiya Thalaimurai TV": {
+        "channel_name": "Puthiya Thalaimurai TV",
+        "source_url": "https://wwitv.com/tv_channels/b6977-Puthiya-Thalaimurai-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCmyKnNRH0wH-r8I-ceP-dsg"
+    },
+    "Sakshi Telugu TV": {
+        "channel_name": "Sakshi Telugu TV",
+        "source_url": "https://wwitv.com/tv_channels/b5497.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCQ_FATLW83q-4xJ2fsi8qAw"
+    },
+    "Sandesh News": {
+        "channel_name": "Sandesh News",
+        "source_url": "https://wwitv.com/tv_channels/b6884_Sandesh_News_India.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCiAH2s_M6nPfGZk-PpfyPkg"
+    },
+    "Suvarna News TV": {
+        "channel_name": "Suvarna News TV",
+        "source_url": "https://wwitv.com/tv_channels/b6824-Suvarna-News-TV.htm",
+        "stream_url": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8"
+    },
+    "T News Telangana": {
+        "channel_name": "T News Telangana",
+        "source_url": "https://wwitv.com/tv_channels/b6355-T-News-Telangana.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCu6edg8_eu3-A8ylgaWereA"
+    },
+    "TEZ News": {
+        "channel_name": "TEZ News",
+        "source_url": "https://wwitv.com/tv_channels/b7122-TEZ-Hindi.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCQC1wGbOOIoC23fRGxt4kbg"
+    },
+    "TV 9 Kannada": {
+        "channel_name": "TV 9 Kannada",
+        "source_url": "https://wwitv.com/tv_channels/b6767-TV-9-Kannada.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC8dnBi4WUErqYQHZ4PfsLTg"
+    },
+    "V6 News TV": {
+        "channel_name": "V6 News TV",
+        "source_url": "https://wwitv.com/tv_channels/b6646-V6-News-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCDCMjD1XIAsCZsYHNMGVcog"
+    }
+}

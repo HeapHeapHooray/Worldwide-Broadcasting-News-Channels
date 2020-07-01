@@ -1,0 +1,27 @@
+{
+    "BBC Arabic": {
+        "channel_name": "BBC Arabic",
+        "source_url": "https://wwitv.com/tv_channels/b4302.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCelk6aHijZq-GJBBB9YpReA"
+    },
+    "BBC Persian": {
+        "channel_name": "BBC Persian",
+        "source_url": "https://wwitv.com/tv_channels/b4938.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCHZk9MrT3DGWmVqdsj5y0EA"
+    },
+    "Sikh Channel": {
+        "channel_name": "Sikh Channel",
+        "source_url": "https://wwitv.com/tv_channels/b6900-Sikh-Channel.htm",
+        "stream_url": "https://livestream.com/accounts/5296919/events/4847426/player"
+    },
+    "Sky News": {
+        "channel_name": "Sky News",
+        "source_url": "https://wwitv.com/tv_channels/b5791.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCoMdktPbSTixAyNGwb-UYkQ"
+    },
+    "Sky News Arabia": {
+        "channel_name": "Sky News Arabia",
+        "source_url": "https://wwitv.com/tv_channels/b6502.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCIJXOvggjKtCagMfxvcCzAA"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Astra TV": {
+        "channel_name": "Astra TV",
+        "source_url": "https://wwitv.com/tv_channels/8115.htm",
+        "stream_url": "https://player.twitch.tv/?channel=astratv2019"
+    },
+    "Euronews Greece": {
+        "channel_name": "Euronews Greece",
+        "source_url": "https://wwitv.com/tv_channels/b7085-Euronews-Greek.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC8HJZNfDPoySgW9DN3YGNaA"
+    },
+    "TV Creta": {
+        "channel_name": "TV Creta",
+        "source_url": "https://wwitv.com/tv_channels/b6521-TV-Creta.htm",
+        "stream_url": "https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8"
+    }
+}

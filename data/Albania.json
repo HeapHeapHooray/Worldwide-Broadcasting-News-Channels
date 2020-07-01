@@ -1,0 +1,22 @@
+{
+    "A2": {
+        "channel_name": "A2",
+        "source_url": "https://wwitv.com/tv_channels/b7197-A2.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCO-B2zbHROkxpMLjwQX6C8A"
+    },
+    "ABC Albania": {
+        "channel_name": "ABC Albania",
+        "source_url": "https://wwitv.com/tv_channels/b6407-ABC-Albania.htm",
+        "stream_url": "https://abcnews.al/abcnewslive/abcnews/playlist.m3u8"
+    },
+    "Euronews Albania": {
+        "channel_name": "Euronews Albania",
+        "source_url": "https://wwitv.com/tv_channels/b7302-Euronews-Albania.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UChR-A__NS_C5kHDWj3PeAhw"
+    },
+    "News 24": {
+        "channel_name": "News 24",
+        "source_url": "https://wwitv.com/tv_channels/b6406-News-24-Albania.htm",
+        "stream_url": "http://tv.balkanweb.com/news24/livestream/playlist.m3u8"
+    }
+}

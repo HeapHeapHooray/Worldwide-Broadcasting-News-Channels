@@ -1,0 +1,17 @@
+{
+    "Globovision": {
+        "channel_name": "Globovision",
+        "source_url": "https://wwitv.com/tv_channels/8409.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCfJtBtmhnIyfUB6RqXeImMw"
+    },
+    "Telesur TV (Spanish)": {
+        "channel_name": "Telesur TV (Spanish)",
+        "source_url": "https://wwitv.com/tv_channels/8375.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCbHFKMtqLYkIBRiPHJwxu_w"
+    },
+    "VPI TV": {
+        "channel_name": "VPI TV",
+        "source_url": "https://wwitv.com/tv_channels/b6988-VPI-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCVFiIRuxJ2GmJLUkHmlmj4w"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Excelsior TV": {
+        "channel_name": "Excelsior TV",
+        "source_url": "https://wwitv.com/tv_channels/b6796-Excelsior-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UClqo4ZAAZ01HQdCTlovCgkA"
+    },
+    "Televisa Noticieros": {
+        "channel_name": "Televisa Noticieros",
+        "source_url": "https://wwitv.com/tv_channels/b7332-Televisa-News-Mexico.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCUsm-fannqOY02PNN67C0KA"
+    }
+}

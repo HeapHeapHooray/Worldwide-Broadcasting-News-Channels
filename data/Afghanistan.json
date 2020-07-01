@@ -1,0 +1,12 @@
+{
+    "Ariana News": {
+        "channel_name": "Ariana News",
+        "source_url": "https://wwitv.com/tv_channels/b6776-Ariana-News.htm",
+        "stream_url": "https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8"
+    },
+    "TOLOnews": {
+        "channel_name": "TOLOnews",
+        "source_url": "https://wwitv.com/tv_channels/b6485-TOLOnews.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCknKEREcKsqhB9DFvT61LZQ"
+    }
+}

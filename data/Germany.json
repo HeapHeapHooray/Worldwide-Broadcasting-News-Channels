@@ -1,0 +1,17 @@
+{
+    "Deutsche Welle": {
+        "channel_name": "Deutsche Welle",
+        "source_url": "https://wwitv.com/tv_channels/b7003.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCMIgOXM2JEQ2Pv2d0_PVfcg"
+    },
+    "Euronews Germany": {
+        "channel_name": "Euronews Germany",
+        "source_url": "https://wwitv.com/tv_channels/b6308.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCACdxU3VrJIJc7ujxtHWs1w"
+    },
+    "NDR Fernsehen Mecklenburg-Vorpommern": {
+        "channel_name": "NDR Fernsehen Mecklenburg-Vorpommern",
+        "source_url": "https://wwitv.com/tv_channels/b3929.htm",
+        "stream_url": "https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8"
+    }
+}

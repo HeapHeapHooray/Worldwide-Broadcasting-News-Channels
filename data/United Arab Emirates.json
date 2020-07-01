@@ -1,0 +1,17 @@
+{
+    "Al Arabiya": {
+        "channel_name": "Al Arabiya",
+        "source_url": "https://wwitv.com/tv_channels/b1577-Al-Arabiya.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCahpxixMCwoANAftn6IxkTg"
+    },
+    "Alhadath TV": {
+        "channel_name": "Alhadath TV",
+        "source_url": "https://wwitv.com/tv_channels/b6933-Alhadath-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCrj5BGAhtWxDfqbza9T9hqA"
+    },
+    "CNBC Arabia": {
+        "channel_name": "CNBC Arabia",
+        "source_url": "https://wwitv.com/tv_channels/b6679-CNBC-Arabia.htm",
+        "stream_url": "https://live.hibridcdn.net/cnbc/liveabr/playlist.m3u8"
+    }
+}

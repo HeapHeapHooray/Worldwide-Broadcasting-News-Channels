@@ -1,0 +1,17 @@
+{
+    "Al Jazeera (Arabic)": {
+        "channel_name": "Al Jazeera (Arabic)",
+        "source_url": "https://wwitv.com/tv_channels/b6006.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCfiwzLy-8yKzIbsmZTzxDgw"
+    },
+    "Al Jazeera (English)": {
+        "channel_name": "Al Jazeera (English)",
+        "source_url": "https://wwitv.com/tv_channels/b4277.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCNye-wNBqNL5ZzHSJj3l8Bg"
+    },
+    "Al Jazeera Mubasher": {
+        "channel_name": "Al Jazeera Mubasher",
+        "source_url": "https://wwitv.com/tv_channels/b6301-Al-Jazeera-Mubasher.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCCv1Pd24oPErw5S7zJWltnQ"
+    }
+}

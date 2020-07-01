@@ -1,0 +1,17 @@
+{
+    "ASTV News1": {
+        "channel_name": "ASTV News1",
+        "source_url": "https://wwitv.com/tv_channels/b2973.htm",
+        "stream_url": "https://server1.streamssl.com/stream/news1.m3u8"
+    },
+    "NBT World": {
+        "channel_name": "NBT World",
+        "source_url": "https://wwitv.com/tv_channels/8265.htm",
+        "stream_url": "http://live.prd.go.th:1935/live/ch1_L_L.sdp/playlist.m3u8"
+    },
+    "Nation Channel": {
+        "channel_name": "Nation Channel",
+        "source_url": "https://wwitv.com/tv_channels/6785.htm",
+        "stream_url": "https://www.dailymotion.com/embed/video/x6eoldf"
+    }
+}

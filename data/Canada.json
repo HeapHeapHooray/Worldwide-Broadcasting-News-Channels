@@ -1,0 +1,7 @@
+{
+    "RDI": {
+        "channel_name": "RDI",
+        "source_url": "http://www.freeintertv.com/view/id-2738/Canada-News-0-1",
+        "stream_url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "TV2 Bornholm": {
+        "channel_name": "TV2 Bornholm",
+        "source_url": "http://www.freeintertv.com/view/id-1148/Europe-News-0-1",
+        "stream_url": "http://live.tv2bornholm.dk/stream/live/chunklist.m3u8"
+    },
+    "TV2 FYN": {
+        "channel_name": "TV2 FYN",
+        "source_url": "https://wwitv.com/tv_channels/b7251-TV2-FYN.htm",
+        "stream_url": "https://cdnapisec.kaltura.com/p/1966291/sp/196629100/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/uiConfId/32079891/a.m3u8"
+    },
+    "TV2 Lorry": {
+        "channel_name": "TV2 Lorry",
+        "source_url": "https://wwitv.com/tv_channels/b7250.htm",
+        "stream_url": "https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599501/a.m3u8"
+    },
+    "TV2 OST": {
+        "channel_name": "TV2 OST",
+        "source_url": "https://wwitv.com/tv_channels/b7248-TV2-Ost.htm",
+        "stream_url": "https://cdnapisec.kaltura.com/p/1953381/sp/195338100/playManifest/entryId/0_zphj9q61/format/applehttp/protocol/https/uiConfId/32600121/a.m3u8"
+    },
+    "TV2 Ostjylland": {
+        "channel_name": "TV2 Ostjylland",
+        "source_url": "https://wwitv.com/tv_channels/b7249-TV2-Ostjylland.htm",
+        "stream_url": "https://cdnapisec.kaltura.com/p/2102081/sp/210208100/playManifest/entryId/0_x4p3licd/format/applehttp/protocol/https/uiConfId/34716281/a.m3u8"
+    }
+}

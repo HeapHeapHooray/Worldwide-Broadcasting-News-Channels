@@ -1,0 +1,12 @@
+{
+    "Al-Alam": {
+        "channel_name": "Al-Alam",
+        "source_url": "https://wwitv.com/tv_channels/7424.htm",
+        "stream_url": "https://live2.alalamtv.net/alalam.m3u8"
+    },
+    "Press TV": {
+        "channel_name": "Press TV",
+        "source_url": "https://wwitv.com/tv_channels/b3830.htm",
+        "stream_url": "http://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8"
+    }
+}

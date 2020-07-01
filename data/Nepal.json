@@ -1,0 +1,17 @@
+{
+    "ABC News": {
+        "channel_name": "ABC News",
+        "source_url": "https://wwitv.com/tv_channels/b7060-ABC-News-Nepal.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC4h-FP0sqCPzFikmZqF0ZIA"
+    },
+    "Avenues TV": {
+        "channel_name": "Avenues TV",
+        "source_url": "https://wwitv.com/tv_channels/b7289-Aveneus-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCMDzPE_7fcZSRJgpwIVor_A"
+    },
+    "News 24": {
+        "channel_name": "News 24",
+        "source_url": "https://wwitv.com/tv_channels/b6855-News-24-Nepal.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCjG2HX7jfwqIjzTlaF1CPGA"
+    }
+}
