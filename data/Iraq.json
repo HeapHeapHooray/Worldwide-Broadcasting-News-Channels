@@ -1,0 +1,12 @@
+{
+    "AFAQ TV": {
+        "channel_name": "AFAQ TV",
+        "source_url": "https://wwitv.com/tv_channels/b7021-AFAQ-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC5-qyrvc3JSAPX-8ZWBX2DA"
+    },
+    "Al Fallujah TV": {
+        "channel_name": "Al Fallujah TV",
+        "source_url": "https://wwitv.com/tv_channels/b7026-Al-Fallujah-TV.htm",
+        "stream_url": "https://livestream.com/accounts/4671269/events/4213685/player"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Canal 24H": {
+        "channel_name": "Canal 24H",
+        "source_url": "https://wwitv.com/tv_channels/b6146-RTVE-24h.htm",
+        "stream_url": "https://rtvelivestream-lvlt.rtve.es/24h_dvr.m3u8"
+    },
+    "Euronews Espanol": {
+        "channel_name": "Euronews Espanol",
+        "source_url": "https://wwitv.com/tv_channels/b6305.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCyoGb3SMlTlB8CLGVH4c8Rw"
+    },
+    "LD TV": {
+        "channel_name": "LD TV",
+        "source_url": "https://wwitv.com/tv_channels/b2662.htm",
+        "stream_url": "https://www.dailymotion.com/embed/video/xnm032"
+    },
+    "Malaga 24 TV": {
+        "channel_name": "Malaga 24 TV",
+        "source_url": "https://wwitv.com/tv_channels/b5741-Malaga-24-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCoMWImnPAur6JhXDK63dpAg"
+    },
+    "Onda Cadiz": {
+        "channel_name": "Onda Cadiz",
+        "source_url": "https://wwitv.com/tv_channels/b4695-Onda-Cadiz-TV-Live.htm",
+        "stream_url": "https://livestream.com/accounts/22727797/events/7923562/player"
+    },
+    "RT Noticias": {
+        "channel_name": "RT Noticias",
+        "source_url": "https://wwitv.com/tv_channels/b6280-RT-Noticias.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCEIhICHOQOonjE6V0SLdrHQ"
+    }
+}

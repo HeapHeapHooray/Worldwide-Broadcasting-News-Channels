@@ -1,0 +1,82 @@
+{
+    "92 News": {
+        "channel_name": "92 News",
+        "source_url": "https://wwitv.com/tv_channels/b6975-92-News-pakistan-live.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCsgC5cbz3DE2Shh34gNKiog"
+    },
+    "Aaj News": {
+        "channel_name": "Aaj News",
+        "source_url": "https://wwitv.com/tv_channels/b6987-Aaj-News.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC8M839hxhr8YauX0adskI5g"
+    },
+    "Al Mashriq TV": {
+        "channel_name": "Al Mashriq TV",
+        "source_url": "https://wwitv.com/tv_channels/b6979-Al-Mashriq-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC_fsxeuacdBdhZQcX4oxmmw"
+    },
+    "Ary News": {
+        "channel_name": "Ary News",
+        "source_url": "https://wwitv.com/tv_channels/b4737.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCMmpLL2ucRHAXbNHiCPyIyg"
+    },
+    "Bol TV": {
+        "channel_name": "Bol TV",
+        "source_url": "https://wwitv.com/tv_channels/b6892-Bol-TV-Pakistan.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCz2yxQJZgiB_5elTzqV7FiQ"
+    },
+    "DIN News": {
+        "channel_name": "DIN News",
+        "source_url": "https://wwitv.com/tv_channels/b7002-DIN-News-pakistan.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCkOmQaGikx615-EyKvYeVGw"
+    },
+    "Dawn News": {
+        "channel_name": "Dawn News",
+        "source_url": "https://wwitv.com/tv_channels/b4086.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCSHxQcOuGuKpY1hQIwbW9-w"
+    },
+    "Dunya News": {
+        "channel_name": "Dunya News",
+        "source_url": "https://wwitv.com/tv_channels/b5405.htm",
+        "stream_url": "https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/playlist.m3u8"
+    },
+    "Express News": {
+        "channel_name": "Express News",
+        "source_url": "https://wwitv.com/tv_channels/b4232.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCTur7oM6mLL0rM2k0znuZpQ"
+    },
+    "GNN News": {
+        "channel_name": "GNN News",
+        "source_url": "https://wwitv.com/tv_channels/b6360-GNN-News.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC35KuZBNIj4S5Ls0yjY-UHQ"
+    },
+    "Geo News": {
+        "channel_name": "Geo News",
+        "source_url": "https://wwitv.com/tv_channels/8394.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC_vt34wimdCzdkrzVejwX9g"
+    },
+    "Hum News": {
+        "channel_name": "Hum News",
+        "source_url": "https://wwitv.com/tv_channels/b6950-Hum-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC0Um3pnZ2WGBEeoA3BX2sKw"
+    },
+    "Indus News": {
+        "channel_name": "Indus News",
+        "source_url": "https://wwitv.com/tv_channels/b7239-Indus-News-Pakistan.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC7EDIC3ONWZpN3DLkRzmhww"
+    },
+    "Khyber News TV": {
+        "channel_name": "Khyber News TV",
+        "source_url": "https://wwitv.com/tv_channels/b6848-Khyber-News-TV.htm",
+        "stream_url": "https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8"
+    },
+    "Roze News": {
+        "channel_name": "Roze News",
+        "source_url": "https://wwitv.com/tv_channels/b7053-Roze-News.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCXKM0LnskYOkOOAfP4D6Vbg"
+    },
+    "Samaa TV": {
+        "channel_name": "Samaa TV",
+        "source_url": "https://wwitv.com/tv_channels/b5052.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCJekW1Vj5fCVEGdye_mBN6Q"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Crimea 24": {
+        "channel_name": "Crimea 24",
+        "source_url": "https://wwitv.com/tv_channels/b7227-Crimea-24.htm",
+        "stream_url": "http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8"
+    },
+    "Euronews Russia": {
+        "channel_name": "Euronews Russia",
+        "source_url": "https://wwitv.com/tv_channels/b7042-Euronews-Russia.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCFzJjgVicCtFxJ5B0P_ei8A"
+    },
+    "RT": {
+        "channel_name": "RT",
+        "source_url": "https://wwitv.com/tv_channels/b1527.htm",
+        "stream_url": "https://rt-news-gd.secure2.footprint.net/1103.m3u8"
+    },
+    "RT America": {
+        "channel_name": "RT America",
+        "source_url": "https://wwitv.com/tv_channels/b6215.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCczrL-2b-gYK3l4yDld4XlQ"
+    },
+    "RT Arabic": {
+        "channel_name": "RT Arabic",
+        "source_url": "https://wwitv.com/tv_channels/b3872.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCsP3Clx2qtH2mNZ6KolVoZQ"
+    },
+    "Russia 24": {
+        "channel_name": "Russia 24",
+        "source_url": "https://wwitv.com/tv_channels/b2244.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC_IEcnNeHc_bwd92Ber-lew"
+    }
+}

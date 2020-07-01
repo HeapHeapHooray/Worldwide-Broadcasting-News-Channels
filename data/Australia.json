@@ -1,0 +1,17 @@
+{
+    "ABC News": {
+        "channel_name": "ABC News",
+        "source_url": "https://wwitv.com/tv_channels/b6023.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCVgO39Bk5sMo66-6o6Spn6Q"
+    },
+    "Sky News Extra 2": {
+        "channel_name": "Sky News Extra 2",
+        "source_url": "https://wwitv.com/tv_channels/b7231-Sky-News-Australia.htm",
+        "stream_url": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8"
+    },
+    "Sky News Extra 3": {
+        "channel_name": "Sky News Extra 3",
+        "source_url": "https://wwitv.com/tv_channels/b7231-Sky-News-Australia.htm",
+        "stream_url": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8"
+    }
+}

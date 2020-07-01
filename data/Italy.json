@@ -1,0 +1,12 @@
+{
+    "Euronews Italy": {
+        "channel_name": "Euronews Italy",
+        "source_url": "https://wwitv.com/tv_channels/b7104.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC1mX9vuLOYf8fhaXS_KcDRg"
+    },
+    "Rai News 24": {
+        "channel_name": "Rai News 24",
+        "source_url": "https://wwitv.com/tv_channels/7560.htm",
+        "stream_url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8"
+    }
+}

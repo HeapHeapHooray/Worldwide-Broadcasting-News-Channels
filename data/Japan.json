@@ -1,0 +1,17 @@
+{
+    "ANN News": {
+        "channel_name": "ANN News",
+        "source_url": "https://wwitv.com/tv_channels/b4501.htm",
+        "stream_url": "https://www.youtube.com/embed/coYw-eVU0Ks"
+    },
+    "NHK World": {
+        "channel_name": "NHK World",
+        "source_url": "https://wwitv.com/tv_channels/6810.htm",
+        "stream_url": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+    },
+    "Weather News TV": {
+        "channel_name": "Weather News TV",
+        "source_url": "https://wwitv.com/tv_channels/b6973-Weather-News.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCNsidkYpIAQ4QaufptQBPHQ"
+    }
+}

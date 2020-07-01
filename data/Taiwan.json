@@ -1,0 +1,27 @@
+{
+    "CTI TV News": {
+        "channel_name": "CTI TV News",
+        "source_url": "https://wwitv.com/tv_channels/b6835-CTI-TV-Taiwan.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC5l1Yto5oOIgRXlI4p4VKbw"
+    },
+    "EBC News": {
+        "channel_name": "EBC News",
+        "source_url": "https://wwitv.com/tv_channels/b7150-EBC-News-taiwan.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCR3asjvr_WAaxwJYEDV_Bfw"
+    },
+    "FTV Formosa TV": {
+        "channel_name": "FTV Formosa TV",
+        "source_url": "https://wwitv.com/tv_channels/b6748-FTV-Formosa-TV-Taiwan.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UClIfopQZlkkSpM1VgCFLRJA"
+    },
+    "SET News": {
+        "channel_name": "SET News",
+        "source_url": "https://wwitv.com/tv_channels/b7116-SET-News-Taiwan.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC2TuODJhC03pLgd6MpWP0iw"
+    },
+    "TVBS News": {
+        "channel_name": "TVBS News",
+        "source_url": "https://wwitv.com/tv_channels/b7217-TVBS-News.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC5nwNW4KdC0SzrhF9BXEYOQ"
+    }
+}

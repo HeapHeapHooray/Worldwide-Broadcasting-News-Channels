@@ -1,0 +1,12 @@
+{
+    "Channels TV": {
+        "channel_name": "Channels TV",
+        "source_url": "https://wwitv.com/tv_channels/b6475-Channels-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/rVH3vmpoOVA"
+    },
+    "TVC News": {
+        "channel_name": "TVC News",
+        "source_url": "https://wwitv.com/tv_channels/b6607-TVC-News.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCgp4A6I8LCWrhUzn-5SbKvA"
+    }
+}

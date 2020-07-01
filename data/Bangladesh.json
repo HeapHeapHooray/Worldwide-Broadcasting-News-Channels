@@ -1,0 +1,12 @@
+{
+    "ATN News": {
+        "channel_name": "ATN News",
+        "source_url": "https://wwitv.com/tv_channels/b6225-ATN-News-Bangladesh.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCKlhfq1ILoAFav7iw5iCnfA"
+    },
+    "Somoy News": {
+        "channel_name": "Somoy News",
+        "source_url": "https://wwitv.com/tv_channels/b6706-Somoy-News-Bangladesh.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCxHoBXkY88Tb8z1Ssj6CWsQ"
+    }
+}

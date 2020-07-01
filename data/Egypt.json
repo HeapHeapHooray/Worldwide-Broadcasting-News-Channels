@@ -1,0 +1,12 @@
+{
+    "Alghad TV": {
+        "channel_name": "Alghad TV",
+        "source_url": "https://wwitv.com/tv_channels/b7143-Alghad-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCH4UNKBHSNwstan99YDoCVg"
+    },
+    "CBC Extra News": {
+        "channel_name": "CBC Extra News",
+        "source_url": "https://wwitv.com/tv_channels/b6553.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC65F33K2cXk9hGDbOQYhTOw"
+    }
+}

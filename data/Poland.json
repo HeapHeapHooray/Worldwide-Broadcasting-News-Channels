@@ -1,0 +1,22 @@
+{
+    "Poland IN": {
+        "channel_name": "Poland IN",
+        "source_url": "https://wwitv.com/tv_channels/b7182-Poland-IN.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCBjUPsHj7bXt24SUWNoZ0zA"
+    },
+    "Republika TV": {
+        "channel_name": "Republika TV",
+        "source_url": "https://wwitv.com/tv_channels/b7259-Republika-TV.htm",
+        "stream_url": "http://redir.cache.orange.pl/jupiter/o2-cl7//live/tvrepublika/live.m3u8"
+    },
+    "Rzeczpospolita TV": {
+        "channel_name": "Rzeczpospolita TV",
+        "source_url": "https://wwitv.com/tv_channels/b7258-Rzeczpospolita-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCpchzx2u5Ab8YASeJsR1WIw"
+    },
+    "Telewizja Wpolsce": {
+        "channel_name": "Telewizja Wpolsce",
+        "source_url": "https://wwitv.com/tv_channels/b7144-Telewizja-Wpolsce.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCPiu4CZlknkTworskK79CPg"
+    }
+}

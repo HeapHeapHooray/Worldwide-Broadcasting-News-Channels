@@ -1,0 +1,12 @@
+{
+    "Alikhbaria TV": {
+        "channel_name": "Alikhbaria TV",
+        "source_url": "https://wwitv.com/tv_channels/7044.htm",
+        "stream_url": "https://ok.ru/video/1654725615222"
+    },
+    "RTV S News": {
+        "channel_name": "RTV S News",
+        "source_url": "https://wwitv.com/tv_channels/b5975-S-News-Syria.htm",
+        "stream_url": "https://ok.ru/video/1654726598262"
+    }
+}

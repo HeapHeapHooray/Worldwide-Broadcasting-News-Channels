@@ -1,0 +1,32 @@
+{
+    "Africa 24 TV": {
+        "channel_name": "Africa 24 TV",
+        "source_url": "https://wwitv.com/tv_channels/b6998-Africa-24-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCmEcEP_oCZJ6Mr1uxhUFyRg"
+    },
+    "BFM TV": {
+        "channel_name": "BFM TV",
+        "source_url": "https://wwitv.com/tv_channels/b1485.htm",
+        "stream_url": "https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8"
+    },
+    "Euronews France": {
+        "channel_name": "Euronews France",
+        "source_url": "https://wwitv.com/tv_channels/b5866.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCW2QcKZiU8aUGg4yxCIditg"
+    },
+    "France 24": {
+        "channel_name": "France 24",
+        "source_url": "https://wwitv.com/tv_channels/b2743.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCCCPCZNChQdGa9EkATeye4g"
+    },
+    "France Info": {
+        "channel_name": "France Info",
+        "source_url": "https://wwitv.com/tv_channels/b6953-France-Info.htm",
+        "stream_url": "https://www.youtube.com/embed/wwNZKfBLAsc?autoplay=0&feature=player_detailpage"
+    },
+    "RT France": {
+        "channel_name": "RT France",
+        "source_url": "https://wwitv.com/tv_channels/b7115-RT-France.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCqEVwTnDzlzKOGYNFemqnYA"
+    }
+}

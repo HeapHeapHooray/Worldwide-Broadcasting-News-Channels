@@ -1,0 +1,77 @@
+{
+    "24 TV Live": {
+        "channel_name": "24 TV Live",
+        "source_url": "https://wwitv.com/tv_channels/b3909.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCN7VYCsI4Lx1-J4_BtjoWUA"
+    },
+    "A Haber": {
+        "channel_name": "A Haber",
+        "source_url": "https://wwitv.com/tv_channels/b6921-A-Haber.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCKQhfw-lzz0uKnE1fY1PsAA"
+    },
+    "Arti TV": {
+        "channel_name": "Arti TV",
+        "source_url": "https://wwitv.com/tv_channels/b7093-Arti-TV-Canli.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCxVicskgBc8OD66iLKc7Uaw"
+    },
+    "DHA": {
+        "channel_name": "DHA",
+        "source_url": "https://wwitv.com/tv_channels/b6894-DHA.htm",
+        "stream_url": "https://5d8ef5ac99397.streamlock.net/live/dhaweb1_720p/playlist.m3u8"
+    },
+    "Haber Global": {
+        "channel_name": "Haber Global",
+        "source_url": "https://wwitv.com/tv_channels/b7165-HaberGlobal.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCtc-a9ZUIg0_5HpsPxEO7Qg"
+    },
+    "Kanal 23 Elazig": {
+        "channel_name": "Kanal 23 Elazig",
+        "source_url": "https://wwitv.com/tv_channels/b4635.htm",
+        "stream_url": "http://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/playlist.m3u8"
+    },
+    "Kanal V": {
+        "channel_name": "Kanal V",
+        "source_url": "https://wwitv.com/tv_channels/b2734.htm",
+        "stream_url": "https://waw2.artiyerelmedya.net/kanalv/bant1/playlist.m3u8"
+    },
+    "NTV": {
+        "channel_name": "NTV",
+        "source_url": "https://wwitv.com/tv_channels/b1630.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC9TDTjbOjFB9jADmPhSAPsw"
+    },
+    "TGRT Haber": {
+        "channel_name": "TGRT Haber",
+        "source_url": "https://wwitv.com/tv_channels/b4012.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCzgrZ-CndOoylh2_e72nSBQ"
+    },
+    "TRT Haber": {
+        "channel_name": "TRT Haber",
+        "source_url": "https://wwitv.com/tv_channels/7050.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCBgTP2LOFVPmq15W-RH-WXA"
+    },
+    "TRT World": {
+        "channel_name": "TRT World",
+        "source_url": "https://wwitv.com/tv_channels/b5664.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC7fWeaHhqgM4Ry-RMpM2YYw"
+    },
+    "TV 100": {
+        "channel_name": "TV 100",
+        "source_url": "https://wwitv.com/tv_channels/b7205-TV-100-canli-izle.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCndsdUW_oPLqpQJY9J8oIRg"
+    },
+    "TV 360": {
+        "channel_name": "TV 360",
+        "source_url": "https://wwitv.com/tv_channels/b2059.htm",
+        "stream_url": "https://www.dailymotion.com/embed/video/x648uq8"
+    },
+    "TV Net": {
+        "channel_name": "TV Net",
+        "source_url": "https://wwitv.com/tv_channels/b6992-TV-Net-canli.htm",
+        "stream_url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8"
+    },
+    "Tele 1": {
+        "channel_name": "Tele 1",
+        "source_url": "https://wwitv.com/tv_channels/b6990-Tele-1-Turkey.htm",
+        "stream_url": "https://www.dailymotion.com/embed/video/x6uoseg"
+    }
+}

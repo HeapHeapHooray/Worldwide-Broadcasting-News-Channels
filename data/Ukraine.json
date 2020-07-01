@@ -1,0 +1,37 @@
+{
+    "112 Ukraine": {
+        "channel_name": "112 Ukraine",
+        "source_url": "https://wwitv.com/tv_channels/b6815-112-Ukraine-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCj4dH8kfRQFey9MYSENPNaQ"
+    },
+    "24 TV": {
+        "channel_name": "24 TV",
+        "source_url": "https://wwitv.com/tv_channels/b2602.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCja992VI_u2e52c9FHQXw5A"
+    },
+    "Espreso TV": {
+        "channel_name": "Espreso TV",
+        "source_url": "https://wwitv.com/tv_channels/b6702-Espreso-TV-Ukraine.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCMEiyV8N2J93GdPNltPYM6w"
+    },
+    "Nash TV": {
+        "channel_name": "Nash TV",
+        "source_url": "https://wwitv.com/tv_channels/b7130-Nash-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCz7ttPTNO_S1PS9rNsCt_iA"
+    },
+    "News One": {
+        "channel_name": "News One",
+        "source_url": "https://wwitv.com/tv_channels/b6836-News-One-Ukraine-Live.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UC9oI0Du20oMOlzsLDTQGfug"
+    },
+    "PRM Direct TV": {
+        "channel_name": "PRM Direct TV",
+        "source_url": "https://wwitv.com/tv_channels/b7081-PRM-Direct-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCH9H_b9oJtSHBovh94yB5HA"
+    },
+    "Zik TV": {
+        "channel_name": "Zik TV",
+        "source_url": "https://wwitv.com/tv_channels/b6445-Zik-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCUOsDBuiB_1zkRixc33TgSg"
+    }
+}

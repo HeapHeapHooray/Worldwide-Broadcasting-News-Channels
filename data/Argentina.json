@@ -1,0 +1,32 @@
+{
+    "A24": {
+        "channel_name": "A24",
+        "source_url": "https://wwitv.com/tv_channels/b5865.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCR9120YBAqMfntqgRTKmkjQ"
+    },
+    "C5N": {
+        "channel_name": "C5N",
+        "source_url": "https://wwitv.com/tv_channels/b3892.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCFgk2Q2mVO1BklRQhSv6p0w"
+    },
+    "Canal 26": {
+        "channel_name": "Canal 26",
+        "source_url": "https://wwitv.com/tv_channels/7904-Diario-Canal-26.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCrpMfcQNog595v5gAS-oUsQ"
+    },
+    "Cronica TV": {
+        "channel_name": "Cronica TV",
+        "source_url": "https://wwitv.com/tv_channels/b7223-Cronica.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCT7KFGv6s2a-rh2Jq8ZdM1g"
+    },
+    "La Nacion": {
+        "channel_name": "La Nacion",
+        "source_url": "https://wwitv.com/tv_channels/b7035-La-Nacion.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCba3hpU7EFBSk817y9qZkiA"
+    },
+    "Todo Noticias": {
+        "channel_name": "Todo Noticias",
+        "source_url": "https://wwitv.com/tv_channels/6464.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCj6PcyLvpnIRT_2W_mwa9Aw"
+    }
+}

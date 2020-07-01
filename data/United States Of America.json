@@ -1,0 +1,122 @@
+{
+    "ABC 7 Fort Myers": {
+        "channel_name": "ABC 7 Fort Myers",
+        "source_url": "https://wwitv.com/tv_channels/b7059-ABC-7-Fort-Myers.htm",
+        "stream_url": "https://www.youtube.com/embed/IukZ7gOGPj8"
+    },
+    "ABC News": {
+        "channel_name": "ABC News",
+        "source_url": "https://wwitv.com/tv_channels/b4772.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCBi2mrWuNuyYy4gbM6fU18Q"
+    },
+    "AZFamily Phoenix": {
+        "channel_name": "AZFamily Phoenix",
+        "source_url": "https://wwitv.com/tv_channels/b6793-AZFamily.htm",
+        "stream_url": "https://livestream.com/accounts/12643960/events/3893868/player"
+    },
+    "Bloomberg TV": {
+        "channel_name": "Bloomberg TV",
+        "source_url": "https://wwitv.com/tv_channels/b5370.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCUMZ7gohGI9HcU9VNsr2FJQ"
+    },
+    "CBN News": {
+        "channel_name": "CBN News",
+        "source_url": "https://wwitv.com/tv_channels/b5298.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCYI_ychRnL7sJrG6PUSBpQA"
+    },
+    "CBS News": {
+        "channel_name": "CBS News",
+        "source_url": "https://wwitv.com/tv_channels/7911.htm",
+        "stream_url": "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8"
+    },
+    "Fox 12 Portland": {
+        "channel_name": "Fox 12 Portland",
+        "source_url": "https://wwitv.com/tv_channels/b3016.htm",
+        "stream_url": "https://livestream.com/accounts/6908462/events/2706967/player"
+    },
+    "Fox 19 Cincinnati": {
+        "channel_name": "Fox 19 Cincinnati",
+        "source_url": "https://wwitv.com/tv_channels/b2979-Fox-19-Cincinnati.htm",
+        "stream_url": "https://livestream.com/accounts/12136532/events/3798375/player"
+    },
+    "Fox 2 St. Louis": {
+        "channel_name": "Fox 2 St. Louis",
+        "source_url": "https://wwitv.com/tv_channels/b3001.htm",
+        "stream_url": "https://livestream.com/accounts/2075940/events/1701970/player"
+    },
+    "Fox 31 Denver": {
+        "channel_name": "Fox 31 Denver",
+        "source_url": "https://wwitv.com/tv_channels/b3009.htm",
+        "stream_url": "https://livestream.com/accounts/3417789/events/1980088/player"
+    },
+    "Fox 4 Kansas City": {
+        "channel_name": "Fox 4 Kansas City",
+        "source_url": "https://wwitv.com/tv_channels/b3000.htm",
+        "stream_url": "https://livestream.com/accounts/2304479/events/1745643/player"
+    },
+    "Fox 40 Sacramento": {
+        "channel_name": "Fox 40 Sacramento",
+        "source_url": "https://wwitv.com/tv_channels/b6710-Fox-40-Sacramento.htm",
+        "stream_url": "https://livestream.com/accounts/9486720/events/3245377/player"
+    },
+    "Fox 5 Las Vegas": {
+        "channel_name": "Fox 5 Las Vegas",
+        "source_url": "https://wwitv.com/tv_channels/b6408-Fox-5-local-news-Las-Vegas.htm",
+        "stream_url": "https://livestream.com/accounts/6910894/events/2707630/player"
+    },
+    "Fox 59 Indianapolis": {
+        "channel_name": "Fox 59 Indianapolis",
+        "source_url": "https://wwitv.com/tv_channels/b6709-Fox-59-Indianapolis.htm",
+        "stream_url": "https://livestream.com/accounts/9286889/events/3206708/player"
+    },
+    "Fox 6 Birmingham": {
+        "channel_name": "Fox 6 Birmingham",
+        "source_url": "https://wwitv.com/tv_channels/b2987.htm",
+        "stream_url": "https://livestream.com/accounts/12446860/events/3855294/player"
+    },
+    "Fox 61 CT Hartford": {
+        "channel_name": "Fox 61 CT Hartford",
+        "source_url": "https://wwitv.com/tv_channels/b6711-Fox-CT-Hartford.htm",
+        "stream_url": "https://livestream.com/accounts/4099489/events/2120235/player"
+    },
+    "KHNL": {
+        "channel_name": "KHNL",
+        "source_url": "https://wwitv.com/tv_channels/b2797.htm",
+        "stream_url": "https://livestream.com/accounts/12139043/events/3798937/player"
+    },
+    "KVOA": {
+        "channel_name": "KVOA",
+        "source_url": "https://wwitv.com/tv_channels/8198.htm",
+        "stream_url": "https://livestream.com/accounts/15512011/events/4404299/player"
+    },
+    "Mesa": {
+        "channel_name": "Mesa",
+        "source_url": "https://wwitv.com/tv_channels/7695.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCxhnbjW5_gD9I4gk_5t6-Aw"
+    },
+    "NBC 2 WBBH": {
+        "channel_name": "NBC 2 WBBH",
+        "source_url": "https://wwitv.com/tv_channels/b2654.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCIYVU7fPs_n6gJIBso3ryeg"
+    },
+    "NBC News": {
+        "channel_name": "NBC News",
+        "source_url": "https://wwitv.com/tv_channels/b7324.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCeY0bbntWzzVIaj2z3QigXg"
+    },
+    "Newsmax TV": {
+        "channel_name": "Newsmax TV",
+        "source_url": "http://www.freeintertv.com/view/id-1316",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCx6h-dWzJ5NpAlja1YsApdg"
+    },
+    "WHO TV": {
+        "channel_name": "WHO TV",
+        "source_url": "https://wwitv.com/tv_channels/7250.htm",
+        "stream_url": "https://livestream.com/accounts/9976600/events/3382760/player"
+    },
+    "WREG Memphis": {
+        "channel_name": "WREG Memphis",
+        "source_url": "https://wwitv.com/tv_channels/b4278.htm",
+        "stream_url": "https://livestream.com/accounts/9362263/events/3216953/player"
+    }
+}

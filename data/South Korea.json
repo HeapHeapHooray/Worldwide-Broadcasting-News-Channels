@@ -1,0 +1,22 @@
+{
+    "Arirang": {
+        "channel_name": "Arirang",
+        "source_url": "https://wwitv.com/tv_channels/b3515.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCoE40Ou0_K3NRomrLdHt2Vg"
+    },
+    "KBS News": {
+        "channel_name": "KBS News",
+        "source_url": "https://wwitv.com/tv_channels/b6312-KBS-World.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCcQTRi69dsVYHN3exePtZ1A"
+    },
+    "YTN News": {
+        "channel_name": "YTN News",
+        "source_url": "https://wwitv.com/tv_channels/b1976-YTN-News.htm",
+        "stream_url": "https://www.youtube.com/embed/U_sYIKWhJvk"
+    },
+    "Yonhap News TV": {
+        "channel_name": "Yonhap News TV",
+        "source_url": "https://wwitv.com/tv_channels/b6880-Yonhap-News-TV.htm",
+        "stream_url": "https://www.youtube.com/embed/live_stream?channel=UCTHCOPwqNfZ0uiKOvFyhGwg"
+    }
+}
