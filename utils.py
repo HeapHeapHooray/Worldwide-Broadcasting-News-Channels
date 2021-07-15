@@ -69,13 +69,16 @@ def get_offline_streams(filename) -> list :
     for key,value in json_dict.items():
         stream_url = value["stream_url"]
         if is_stream_offline(stream_url):
-            offline_streams.append("Stream: " + key
-                                   + " on file: " + filename + " is offline.")
+            offline_streams.append("Stream: " + '"' + key + '"'
+                                   + " on file: " + '"' + filename + '"'
+                                   + " is offline.")
 
     return offline_streams
 
 def get_all_offline_streams() -> list :
     # WARNING: It takes a long time to complete.
+    # Make sure to update Streamlink before using this function
+    # so you don't waste your time with a wrong output.
     offline_streams = []
 
     folder_jsons = get_collection_folder_jsons()

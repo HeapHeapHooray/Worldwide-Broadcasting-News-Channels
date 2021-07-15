@@ -38,7 +38,8 @@ best_url = streamlink.streams(channel["stream_url"])["best"].url
 print("Best Extracted URL:",best_url)
 ```
 ## About offline streams
-You may find some streams that are offline, keep in mind that it doesn't means a stream is dead, the stream may be temporarily offline.
+You may find some streams that are offline, keep in mind that it doesn't means a stream is dead, the stream may be temporarily offline.  
+Also make sure to update Streamlink before checking for offline streams, as an older version of Streamlink might have problems extracting URLs.
 ## Sources
 The collection is extracted from the following sources:  
 [wwitv.com](https://wwitv.com)  
