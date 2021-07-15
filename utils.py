@@ -67,7 +67,7 @@ def get_offline_streams(filename) -> list :
     json_dict = load_json(filename)
 
     for key,value in json_dict.items():
-        stream_url = value["url"]
+        stream_url = value["stream_url"]
         if is_stream_offline(stream_url):
             offline_streams.append("Stream: " + key
                                    + " on file: " + filename + " is offline.")
